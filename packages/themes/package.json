@@ -48,11 +48,11 @@
 		"prepack": "unbuild"
 	},
 	"devDependencies": {
-		"@public-ui/schema": "1.6.0-rc.4",
+		"@public-ui/schema": "1.7.20",
 		"@types/node": "ts4.9",
-		"@typescript-eslint/eslint-plugin": "5.59.11",
-		"@typescript-eslint/parser": "5.59.11",
-		"eslint": "8.43.0",
+		"@typescript-eslint/eslint-plugin": "5.62.0",
+		"@typescript-eslint/parser": "5.62.0",
+		"eslint": "8.57.0",
 		"eslint-plugin-no-loops": "0.3.0",
 		"typescript": "5.0.4",
 		"unbuild": "1.2.1"
